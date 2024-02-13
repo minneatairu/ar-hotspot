@@ -3,7 +3,8 @@ model-viewer {
     height: 100vh; /* 100% of the viewport height */
 }
 
-div.HotspotAnnotation{    font-family: 'Chakra Petch', sans-serif;background: yellow;font-size: 2rem;border:1px dashed}
+div.HotspotAnnotation{    font-family: 'Chakra Petch', sans-serif;font-size: 2rem;}
 
 body {  background: linear-gradient(to bottom, yellow, black 70%);
 }
+button.hotspot{background: yellow;border:1px dashed}
