@@ -7,4 +7,4 @@ div.HotspotAnnotation{    font-family: 'Chakra Petch', sans-serif;font-size: 1.5
 
 body {  background: linear-gradient(to bottom, yellow, black 70%);
 }
-button.Hotspot{background: yellow;border:1px dashed}
+button.Hotspot{background: yellow;border:1px dashed;color:#000}
